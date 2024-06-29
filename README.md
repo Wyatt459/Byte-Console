@@ -1,2 +1,2 @@
-# Small-game-console
-A small ESP 328I MINI powered game console
+# Byte-Console
+A small Raspberry Pi Pico-powered game console
